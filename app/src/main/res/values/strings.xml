@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas Infinite</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_share">Share</string>
+    <string name="App_share">Application Tugas</string>
+    <string name="share_message">Mari Mengenal Pahlawan Dan Para Kabinet!!</string>
+</resources>
